@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(245, 202, 110);
+    font-size:30px ;
+		        color:#972020;
+                text-align: center;
+    h1{
+        background-color:LightYellow;
+        border-style: solid;
+        text-align: center;}
+       
+        h2{
+            font-size:36px;
+            color:#972020;
+            text-align: center;
+        }
+
+        a{
+            font-size:28px;
+            color:#972020;
+            text-align: center;
+        }
+
+        h3{
+            font-size:24px;
+            color:#972020;
+            text-align: center;
+        }
+        li{
+            list-style: none;
+            background-color:LightYellow;
+            margin:10px;
+            width:50%;
+            margin-left:25%;
+            border-radius: 10px;
+            padding:10px;
+        }
+        table{
+            width:75%;
+            margin-left:12.5%;
+            border:3px solid;
+            color:LightYellow;
+            font-size:30px;
+        }
+    
+
+        }
